@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991930735713",
+    "firebase_url": "https://facepi.firebaseio.com",
+    "project_id": "facepi",
+    "storage_bucket": "facepi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991930735713:android:6ef4191710ec35bf18de20",
+        "android_client_info": {
+          "package_name": "ai.facepi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991930735713-bv7trhlqeqasi6th32vmf38cqg3c6pnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.facepi.app",
+            "certificate_hash": "79593bc9ffbe0a4cc6606d632e92ccaa6fb5a4f4"
+          }
+        },
+        {
+          "client_id": "991930735713-jte58gjiddrd4dpcu8v8k5cboum5a5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBREtmwdXaM6EVl2BhKPMaq9Rpj9EjAIHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991930735713-jte58gjiddrd4dpcu8v8k5cboum5a5to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991930735713-9fk2tbrrs29gs8r6amf3ne45re3q8jq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ai.facepi.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
